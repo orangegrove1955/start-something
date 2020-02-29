@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: The Alexa skill made it
+title: The Alexa skill made it before the end of the month
 date: 2020-02-29T03:28:54.905Z
 description: >-
   It's currently 2:30PM on Feb 29, so thank goodness for the leap day this year.
