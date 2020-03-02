@@ -30,6 +30,6 @@ Last month, I realised the necessity of having something as a fall back, in case
 
 I want to stick to the theme of mobile apps, and still want to keep it more challenging than just following along with a tutorial. I'm thinking perhaps an app that will get 7 recipes for the week, along with creating a shopping list, so the user can get everything they need and cook dinners. I figure this should be possible with a recipe API or database online, and some storage on the device to keep the 7 recipes for offline viewing. 
 
-\--- 
+\---
 
 There's the plan. A mobile app of some description, made in a month. It might be sudoku and computer vision, or it might be a little bit more simple. Either way, I'll learn some cool new stuff, and have something up in the app stores by the end of the month.
