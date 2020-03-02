@@ -6,7 +6,7 @@ description: >-
   February has finished, now it's time to find another project to build for
   March
 featuredpost: false
-featuredimage: /img/flutter.png
+featuredimage: /img/alexa.png
 tags:
   - ocr
   - app
